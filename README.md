@@ -20,3 +20,6 @@ As part of the BeCode Brussels 2022/2023 training
 - Create a SQL Table
 - Query of the table to the client
 - Fill the table with a for loop of INSERT
+- npm install dotenv --save
+- Create a .env file to protect the password
+- Create a .gitignore to hidden files
